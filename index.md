@@ -5,7 +5,7 @@ the site is still no redy
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+soom more
 
 ```markdown
 Syntax highlighted code block
