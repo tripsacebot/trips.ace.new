@@ -10,15 +10,9 @@ soom more
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+here you may see outputs of our recent commends
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
+no recent activites
 
 **Bold** and _Italic_ and `Code` text
 
