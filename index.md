@@ -1,30 +1,5 @@
-## Welcome to GitHub Pages
+## steam hour bosts and commend bot with report bot 
 
-hey everybody this is our new commend bot and report bot site
-the site is still no redy
-
-### Markdown
-
-soom more
-
-```markdown
-Syntax highlighted code block
-
-here you may see outputs of our recent commends
-
-no recent activites
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tireder/trips.ace.new/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+hey everybody this is our new commend bot report bot site
+the site is still no redy and hour bosts for any game
+just join our .[discord server ] (https://discord.gg/2tU7Jx7)
